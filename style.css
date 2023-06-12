@@ -58,6 +58,6 @@ body {
 .second-hand {
   height: 120px;
   transform: translateY(-50%) rotate(60deg);
-  background-color: red;
+  background-color: rgb(255, 255, 255);
   width: 1px;
 }
